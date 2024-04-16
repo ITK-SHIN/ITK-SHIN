@@ -1,5 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header&text=&fontSize=텍스트크기" />
 
+<div align=center>
+  
 # Hello, I'm SangWoo, a Korean who will be a front-end developer.
 
 
@@ -51,6 +53,7 @@ https://adeveloperstory.tistory.com/
    토글 안 내용
 </details>
 
+</div>
 
 <!--
 **ITK-SHIN/ITK-SHIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
