@@ -2,6 +2,7 @@
 
 <div align=center>
   
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=문제+해결을+좋아하는;문제+해결을+즐기는)](https://git.io/typing-svg) 
 # 지식을 얻는 과정, 배움에서 즐거움을 느끼는 개발자 입니다
 
 
