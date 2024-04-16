@@ -18,8 +18,8 @@
 
 ![js](https://img.shields.io/badge/React-F80000?style=for-the-badge&logo=react&logoColor=61DAFB)
 
+![js](https://img.shields.io/badge/Context_API-gray?style=for-the-badge&logo=Context_API&logoColor=red)
 ![js](https://img.shields.io/badge/React_query-20232A?style=for-the-badge&logo=reactQuery&logoColor=black)
-![js](https://img.shields.io/badge/Context_API-red?style=for-the-badge&logo=Context_API&logoColor=red)
 ![js](https://img.shields.io/badge/Recoil-gray?style=for-the-badge&logo=Recoil&logoColor=red)
 
 
@@ -38,18 +38,14 @@
 <summary>
 🔥 Skills I'm currently learning 🔥 
 </summary>
-
   
 ![js](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)
-  
-
-   토글 안 내용
 </details>
 
 <details>
 <summary>
-🔍 blog 🔍
+🎈 My Blog 🎈
 </summary>
 
 https://adeveloperstory.tistory.com/
