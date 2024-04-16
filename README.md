@@ -2,7 +2,7 @@
 
 <div align=center>
   
-# Hello, I'm SangWoo, a Korean who will be a front-end developer.
+# 지식을 얻는 과정, 배움에서 즐거움을 느끼는 개발자 입니다
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ITK-SHIN&hide=contribs,prs)
@@ -31,6 +31,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ITK-SHIN)](https://github.com/anuraghazra/github-readme-stats)
 
+</div>
+
 <details>
 <summary>
 🔥 Skills I'm currently learning 🔥 
@@ -40,6 +42,7 @@
 ![js](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)
   
+
    토글 안 내용
 </details>
 
@@ -53,7 +56,6 @@ https://adeveloperstory.tistory.com/
    토글 안 내용
 </details>
 
-</div>
 
 <!--
 **ITK-SHIN/ITK-SHIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
