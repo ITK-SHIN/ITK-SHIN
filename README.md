@@ -8,7 +8,7 @@
 </div>
 <div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=문제+해결을+즐기는;문제+해결을+좋아하는)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=문제를+어떻게든+해결하는;)](https://git.io/typing-svg) 
 </div>
 # 지식을 얻는 과정, 배움에서 즐거움을 느끼는 개발자 입니다
 
